@@ -2,8 +2,8 @@
 
 ## Zaakmagazijn API:
 
-http://fieldlab.westeurope.cloudapp.azure.com:3000/api/zaken/  [POST]
-http://fieldlab.westeurope.cloudapp.azure.com:3000/api/zakenvannps/:bsn [GET]
+http://fieldlab.westeurope.cloudapp.azure.com/api/zaken/  [POST]
+http://fieldlab.westeurope.cloudapp.azure.com/api/zakenvannps/:bsn [GET]
 
 User: zaakmagazijn
 Password: *******
@@ -21,4 +21,7 @@ User: admin
 Password: *******
 
 ## BRP
-http://fieldlab.westeurope.cloudapp.azure.com:8081/brp/?wsdl
+http://fieldlab.westeurope.cloudapp.azure.com/brp/?wsdl
+
+## Irma login
+http://fieldlab.westeurope.cloudapp.azure.com:3000/ 
